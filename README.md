@@ -25,6 +25,10 @@ Minimalistischer Pomodoro-Timer mit Todo-Liste. Next.js 15, TypeScript, Tailwind
 ### 🛒 [Project Shop](https://github.com/Daniel-Nikoulchine/projectshop)
 E-Commerce-Storefront mit Supabase-Backend. Produktkatalog, Kategoriefilter, Suche, Detailseiten. Next.js 14, TypeScript, Tailwind CSS 3.
 
+### 🎮 Spiele (Unity)
+- [Deadbrush](https://tunly.itch.io/deadbrush) — Action: Schwing deinen Pinsel und halt den Wald frei. Spielbar im Browser.
+- [Lonely Woods](https://tunly.itch.io/whos-gonna-burn-the-logs) — Überlebe im einsamen Wald. Spielbar im Browser.
+
 ## Weitere Mitarbeit
 
 ### 🎮 [Open Game Launcher](https://github.com/Tunly/open-game-launcher)
