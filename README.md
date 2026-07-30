@@ -1,7 +1,7 @@
 # Hallo, ich bin Daniel 👋
 
 Self-taught Developer aus Lüdinghausen. Auf der Suche nach einer IT-Ausbildung.
-Ich baue Web-Apps, Mobile Apps und Desktop-Anwendungen — am liebsten mit TypeScript und React.
+Ich baue Web-Apps, Mobile Apps und Desktop-Anwendungen, am liebsten mit TypeScript und React.
 
 ## Tech-Stack
 
@@ -26,8 +26,8 @@ Minimalistischer Pomodoro-Timer mit Todo-Liste. Next.js 15, TypeScript, Tailwind
 E-Commerce-Storefront mit Supabase-Backend. Produktkatalog, Kategoriefilter, Suche, Detailseiten. Next.js 14, TypeScript, Tailwind CSS 3.
 
 ### 🎮 Spiele (Unity)
-- [Deadbrush](https://tunly.itch.io/deadbrush) — Action: Schwing deinen Pinsel und halt den Wald frei. Spielbar im Browser.
-- [Lonely Woods](https://tunly.itch.io/whos-gonna-burn-the-logs) — Überlebe im einsamen Wald. Spielbar im Browser.
+- [Deadbrush](https://tunly.itch.io/deadbrush): Action. Schwing deinen Pinsel und halt den Wald frei. Spielbar im Browser.
+- [Lonely Woods](https://tunly.itch.io/whos-gonna-burn-the-logs): Überlebe im einsamen Wald. Spielbar im Browser.
 
 ## Weitere Mitarbeit
 
