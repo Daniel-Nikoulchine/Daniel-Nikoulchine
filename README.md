@@ -34,7 +34,7 @@ E-Commerce-Storefront mit Supabase-Backend. Produktkatalog, Kategoriefilter, Suc
 ### 🎮 [Open Game Launcher](https://github.com/Tunly/open-game-launcher)
 Cross-Platform Desktop-Game-Launcher (Tauri 2 + React). Meine Beiträge: Steam/Xbox-Integration, Game-Pass-Achievements, AES-GCM-Verschlüsselung, Keyring-Anbindung, Tailwind-4-Migration.
 
-### 🎬 [AniWebScale](https://github.com/Daniel-Nikoulchine/Anime4K-WebExtension)
+### 🎬 [AniWebScale](https://github.com/Daniel-Nikoulchine/AniWebScale)
 Browser-Extension für Echtzeit-Video-Upscaling mit Anime4K (HLSL/WebGPU). Meine Beiträge: Release 1.0.0, CI-Pipeline, Cloudflare-Deploy, Shader-Hash-Verifikation, Theme-System.
 
 ## Kontakt
