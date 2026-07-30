@@ -1,6 +1,6 @@
 # Hallo, ich bin Daniel 👋
 
-Abiturient mit Schwerpunkt Mathematik/Bio und IT-Ausbildungssuchender aus Lüdinghausen.
+Auf der Suche nach einer IT-Ausbildung, aus Lüdinghausen.
 Ich baue Web-Apps, Mobile Apps und Desktop-Anwendungen — am liebsten mit TypeScript und React.
 
 ## Tech-Stack
