@@ -25,9 +25,6 @@ Minimalistischer Pomodoro-Timer mit Todo-Liste. Next.js 15, TypeScript, Tailwind
 ### 🛒 [Project Shop](https://github.com/Daniel-Nikoulchine/projectshop)
 E-Commerce-Storefront mit Supabase-Backend. Produktkatalog, Kategoriefilter, Suche, Detailseiten. Next.js 14, TypeScript, Tailwind CSS 3.
 
-### 📋 [Sunoxio](https://sunoxio.vercel.app)
-Kanban- und Whiteboard-App für visuelle Projektplanung und Kollaboration. React, TypeScript, Tailwind CSS.
-
 ## Weitere Mitarbeit
 
 ### 🎮 [Open Game Launcher](https://github.com/Tunly/open-game-launcher)
