@@ -1,6 +1,6 @@
 # Hallo, ich bin Daniel 👋
 
-Auf der Suche nach einer IT-Ausbildung, aus Lüdinghausen.
+Self-taught Developer aus Lüdinghausen. Auf der Suche nach einer IT-Ausbildung.
 Ich baue Web-Apps, Mobile Apps und Desktop-Anwendungen — am liebsten mit TypeScript und React.
 
 ## Tech-Stack
@@ -13,14 +13,20 @@ Ich baue Web-Apps, Mobile Apps und Desktop-Anwendungen — am liebsten mit TypeS
 ![Supabase](https://img.shields.io/badge/Supabase-Postgres-3ecf8e?logo=supabase)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-4-38bdf8?logo=tailwindcss)
 ![Tauri](https://img.shields.io/badge/Tauri-2-ffc131?logo=tauri&logoColor=black)
+![Unity](https://img.shields.io/badge/Unity-6-black?logo=unity)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16-4169e1?logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-3-003b57?logo=sqlite&logoColor=white)
 
 ## Projekte
 
-### 🍅 [Pomodoro Timer](https://github.com/Daniel-Nikoulchine/Pomodoro)
+### 🍅 [Pomodoro Timer](https://github.com/Daniel-Nikoulchine/Pomodoro) · [Live](https://pomodoro-sigma-seven.vercel.app)
 Minimalistischer Pomodoro-Timer mit Todo-Liste. Next.js 15, TypeScript, Tailwind CSS 4, shadcn/ui.
 
 ### 🛒 [Project Shop](https://github.com/Daniel-Nikoulchine/projectshop)
 E-Commerce-Storefront mit Supabase-Backend. Produktkatalog, Kategoriefilter, Suche, Detailseiten. Next.js 14, TypeScript, Tailwind CSS 3.
+
+### 📋 [Sunoxio](https://sunoxio.vercel.app)
+Kanban- und Whiteboard-App für visuelle Projektplanung und Kollaboration. React, TypeScript, Tailwind CSS.
 
 ## Weitere Mitarbeit
 
@@ -33,3 +39,5 @@ Browser-Extension für Echtzeit-Video-Upscaling mit Anime4K (HLSL/WebGPU). Meine
 ## Kontakt
 
 📧 [danielnikoulchine@gmail.com](mailto:danielnikoulchine@gmail.com)
+🌐 [danielnikl.dev](https://danielnikl.dev)
+🎮 [itch.io](https://pluyson.itch.io/)
